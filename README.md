@@ -129,4 +129,4 @@ Feed
 
 Improved Map
 - Added new missions
-- Added new markers
+- Added new object markers
