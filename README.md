@@ -1,4 +1,4 @@
 The Cube Gaming
 ===============
 
-DayZ Epoch - Server Files
+DayZ Epoch - Server Files v1.2
