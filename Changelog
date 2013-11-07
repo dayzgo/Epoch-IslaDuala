@@ -1,0 +1,68 @@
+
+THE CUBE GAMING - Rolling Changelog
+
+=========================================================================
+v1.2.1 HOTFIX - 07, November
+=========================================================================
+
+- DAYZ SERVERS
+# Added Self Bloodbag – 11/07-2013
+# Added J.S.R.S SoundMod – 11/07-2013
+
+DAYZ DATABASE
+# Fixed US Server Statistics & Prices – 11/07-2013
+
+- WEBSYSTEM
+# Separated Live Stream’s for EU & US Server – 10/26-2013
+# Changed clock for EU server to 24Hour Standard – 11/01-2013
+# Removed “Movies”, “Battlefield 3″ & “GTA” Sections – 11/07-2013
+
+- TEAMSPEAK SERVER
+# Added Ranking System – 11/0-2013
+
+=========================================================================
+v1.2 - 01, November
+=========================================================================
+
+- DAYZ SERVERS
+# Added DayZ Epoch 1.0.2.5 – 10/28-2013
+# Map improvements – 10/10-2013
+
+- DAYZ DATABASE
+# FULL DATABASE CLEANUP! – 11/01-2013
+# Separated databases for each server (EU/US) – 11/01-2013
+
+- WEBSYSTEM
+# Made some changes to our Home page – 10/26-2013
+# Separated Survivor Stats, Epoch Prices and the Admin Panel DB’s – 11/01-2013
+
+- TEAMSPEAK SERVER
+# Added clan channels – 10/26-2013
+
+=========================================================================
+v1.1 - 26, October
+=========================================================================
+
+- DAYZ SERVERS
+# Added new and improved Anti-Hack system – 10/21-2013
+# Improved AI & Mission system – 10/23-2013
+# Map improvements – 10/10-2013
+
+- DAYZ DATABASE
+# Transfered EU & US server to new DB – 10/26-2013
+# Shared Epoch Prices between EU & US server – 10/26-2013
+# Added custom Donation/VIP Skin & Gear system – 10/26-2013
+
+- WEBSYSTEM
+# Added Forum – 10/24-2013
+# Added Facebook sign in/register option to Forum – 10/25-2013
+# Total layout/design overhaul – 10/22-2013
+# Added DayZ Epoch Trader Prices page – 10/25-2013
+# Added DayZ Epoch Player Statistics page – 10/25-2013
+# Added Events page – 10/25-2013
+# Added Live Stream page – 10/27-2013
+
+- TEAMSPEAK SERVER
+# Total overhaul of our channels – 10/24-2013
+# Added Filetransfer protocol to all Member channels – 10/24-2013
+
