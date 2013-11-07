@@ -1,5 +1,4 @@
 The Cube Gaming
 ============
 
-Epoch Chernarus Server Files
-www.thecube.no
+Epoch Chernarus Server Files - http://www.thecube.no
